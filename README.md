@@ -1,5 +1,49 @@
-## Hi there 👋
+# Hi there, I’m Noman 👋
 
+**Senior .NET & Azure Developer | Cloud Integration Specialist | AI Enthusiast**
+
+---
+
+### 🛠️ Technical Expertise
+- **Languages & Frameworks:** .NET 8, ASP.NET Core, Blazor WebAssembly, C#, TypeScript  
+- **Cloud & DevOps:** Microsoft Azure (Functions, Logic Apps, Service Bus, API Management, Cosmos DB, AKS), GitHub Actions, Azure DevOps  
+- **Data & Integration:** SQL Server, EF Core (Code-First), REST & OData APIs, GraphQL, Event-Driven Microservices, MediatR/CQRS  
+- **AI & Automation:** Azure Cognitive Search, OpenAI integrations, n8n, Make.com, AWS AI/ML fundamentals
+
+---
+
+### 🚀 Featured Projects
+- **[RetailWebDemo](https://github.com/rizingstar/RetailWebDemo)** – Azure-based retail app with microservices, multi-location inventory, and AI-powered product search  
+- **[DotNet8-Backend-Starter](https://github.com/rizingstar/DotNet8-Backend-Starter)** – Production-ready Clean Architecture & CQRS API template with EF Core, Swagger, and CI/CD  
+- **Payment Gateway POC** – Secure .NET Core 8+ payment integration with Swagger & Azure SQL  
+- **Coinbase Advanced Trade Bot** – Automated crypto trading & integrations in C#
+
+---
+
+### 🏆 Achievements & Certifications
+- Microsoft Azure Certified Developer (in progress on AWS AI/ML Practitioner)  
+- 100% Job Success & **Rising Talent** on Upwork  
+- Speaker & architect for Microsoft **Azure App Innovation Webinar** (Retail industry demo)
+
+---
+
+### 🌟 Mission
+I build **scalable, cloud-native applications** that blend **.NET, Azure, and AI** to solve real-world problems.  
+My focus: delivering software that’s **robust, innovative, and impactful**—turning complex business needs into elegant, production-ready solutions.
+
+---
+
+### 📫 Let’s Connect
+- [LinkedIn](https://linkedin.com/in/nomanakhan)  
+- [GitHub](https://github.com/rizingstar)  
+- [JobSeekersHub](https://jobseekershub.app)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizingstar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizingstar&layout=compact&theme=tokyonight)
+
+> *“Software is a team sport. My goal is to design systems that scale with both technology and people.”*
 <!--
 **rizingstar/rizingstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
