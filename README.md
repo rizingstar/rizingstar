@@ -34,7 +34,8 @@ My focus: delivering software that’s **robust, innovative, and impactful**—t
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://linkedin.com/in/nomanakhan)  
-- [GitHub](https://github.com/rizingstar)  
+- [GitHub](https://github.com/rizingstar)
+- [Upwork](https://www.upwork.com/freelancers/~016215f818fad9a2a0)
 - [JobSeekersHub](https://jobseekershub.app)
 
 ---
