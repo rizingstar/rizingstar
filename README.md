@@ -13,8 +13,7 @@
 ---
 
 ### 🚀 Featured Projects
-- **[RetailWebDemo](https://github.com/rizingstar/RetailWebDemo)** – Azure-based retail app with microservices, multi-location inventory, and AI-powered product search  
-- **[DotNet8-Backend-Starter](https://github.com/rizingstar/DotNet8-Backend-Starter)** – Production-ready Clean Architecture & CQRS API template with EF Core, Swagger, and CI/CD  
+- **[Measurement Hub](https://github.com/rizingstar/MeasurementHub)** – MeasurementHub is a modular, full-stack demo application built using ASP.NET Core, Blazor WebAssembly, Entity Framework Core, and Clean Architecture principles with CQRS pattern and MediatR integration.  
 - **Payment Gateway POC** – Secure .NET Core 8+ payment integration with Swagger & Azure SQL  
 - **Coinbase Advanced Trade Bot** – Automated crypto trading & integrations in C#
 
